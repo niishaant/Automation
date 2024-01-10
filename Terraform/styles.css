@@ -1,0 +1,61 @@
+/* Add these styles to the existing styles.css file */
+
+body {
+    background: #e4e0e0;
+    color: #333;
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #3498db;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+.welcome-message {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 18px;
+    color: #3498db;
+}
+
+.profile {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+section {
+    max-width: 800px;
+    margin: 20px auto;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+.project {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+/* Add more styles as needed */
+
+
+/* Add these styles to the existing styles.css file */
+
+/* ... your existing styles ... */
+
+/* Add these styles to the existing styles.css file */
+
+/* Add these styles to the existing styles.css file */
+
+/* Add these styles to the existing styles.css file */
